@@ -1,16 +1,12 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/80fc6f82-c819-4769-96e4-62621e4e10ba"
+       height = "300"
+        width="800"
+       alt="The Unknown" />
+</p>
 
-<!--
-**priyanka287-agrawal/priyanka287-agrawal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Who am i...?</h1>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  Exploring • Learning • Building
+</p>
