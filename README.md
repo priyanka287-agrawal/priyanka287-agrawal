@@ -5,8 +5,8 @@
        alt="The Unknown" />
 </p>
 
-<h1 align="center">Who am i...?</h1>
+<h1 align="center">Here's What I m Doing?</h1>
 
 <p align="center">
-  Exploring • Learning • Building
+   Exploring • Learning • Building
 </p>
