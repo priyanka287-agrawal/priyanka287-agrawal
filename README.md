@@ -30,4 +30,23 @@
   🔹 Open to internships, collaboration, and open-source work
 </p>
 
+<h2 align="center">🛠️ Skills</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-000?logo=python&logoColor=yellow" title="Python" />
+  <img src="https://img.shields.io/badge/-R-000?logo=r&logoColor=blue" title="R Programming" />
+  <img src="https://img.shields.io/badge/-SQL-000?logo=mysql&logoColor=white" title="SQL" />
+  <img src="https://img.shields.io/badge/-Power%20BI-000?logo=powerbi&logoColor=yellow" title="Power BI" />
+  <img src="https://img.shields.io/badge/-Excel-000?logo=microsoft-excel&logoColor=green" title="Microsoft Excel" />
+  <img src="https://img.shields.io/badge/-Tableau-000?logo=tableau&logoColor=white" title="Tableau" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-NumPy-000?logo=numpy&logoColor=blue" title="NumPy" />
+  <img src="https://img.shields.io/badge/-Pandas-000?logo=pandas&logoColor=white" title="Pandas" />
+  <img src="https://img.shields.io/badge/-Matplotlib-000?logo=plotly&logoColor=white" title="Matplotlib" />
+  <img src="https://img.shields.io/badge/-Scikit--Learn-000?logo=scikitlearn&logoColor=orange" title="Scikit-learn" />
+  <img src="https://img.shields.io/badge/-Jupyter-000?logo=jupyter&logoColor=orange" title="JupyterLab" />
+</p>
+
 
