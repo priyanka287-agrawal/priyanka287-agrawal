@@ -50,4 +50,4 @@
 </p>
 
 
-![snake gif](https://github.com/priyanka287-agrawal/priyanka287-agrawal/blob/output/github-snake.svg)
+![snake gif](https://github.com/priyanka287-agrawal/priyanka287-agrawal/blob/output/github-snake-dark.svg)
